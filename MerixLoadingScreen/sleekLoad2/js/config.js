@@ -1,4 +1,4 @@
-/*    _           _    _                     _ 
+ix/*    _           _    _                     _ 
      | |         | |  | |                   | |
   ___| | ___  ___| | _| |     ___   __ _  __| |
  / __| |/ _ \/ _ \ |/ / |    / _ \ / _` |/ _` |
@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "Merix Gaming";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -50,9 +50,9 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
-	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"Ambush_Yoda_clones.png",
+	"echo__fives__and_cody.jpg",
+	"Republic_Assault.png"
 ];
 
 /*Random background images order?*/
